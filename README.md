@@ -1,6 +1,5 @@
 <h1 align="center">We care</h1> 
 <br>
-<br>
 
 <h3 align="center"> Projeto responsivo que aprendi no curso <a href="https://rodolfomori.com.br/devclub">DevClub</a> com as tecnologias:</h3>
 
